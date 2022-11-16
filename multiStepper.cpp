@@ -7,7 +7,7 @@
    si por alguna razón lo llegas a leer sientete libre de
    mentarme la madre o enviarme una critica constructiva a:
 
-            Caffeine.Snorter.Advice@gmail.com
+            Caffeine.Snorter@gmail.com
 
   ==============================================================================
   ==============================================================================
