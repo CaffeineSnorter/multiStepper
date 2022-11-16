@@ -65,7 +65,7 @@ void multiStepper::init() {
     pinMode(stepPin, OUTPUT);
     pinMode(dirPin, OUTPUT);
 
-    minDelayPerRev = (1 / maxFreq) * 1000;
+    //minDelayPerRev = (1 / maxFreq) * 1000;
   }
 }
 
