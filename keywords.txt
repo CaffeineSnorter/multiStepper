@@ -1,0 +1,8 @@
+# Datatypes (KEYWORD1)
+multiStepper	KEYWORD1
+
+# Methods and Functions (KEYWORD2)
+fullStepHighTorque	KEYWORD2
+fullStepLowTorque	KEYWORD2
+halfStep	KEYWORD2
+init	KEYWORD2
