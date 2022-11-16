@@ -7,17 +7,24 @@
    si por alguna razón lo llegas a leer sientete libre de
    mentarme la madre o enviarme una critica constructiva a:
 
-            Caffeine.Snorter@gmail.com
+                          Caffeine.Snorter@gmail.com
+            
+  You are about to read the nastiest most disrespectful piece of code
+  you'll see in your life, if for any reason you happen to read it feel free
+  to tell me to go fuck myself or send me an email suggesting ways to improve
+  my code to the email above.
 
   ==============================================================================
   ==============================================================================
 
    multiStepper.h - Libreria hecha con las patas para controlar motores a pasos
+   multiStepper.h - Blundering library aimed to control stepper motors
 
    28BYJ_48 con controlador ULN2003
    NEMA 17 con controlador a4988
 
    Creado por CaffeineSnorter
+   Created by CaffeineSnorter
 */
 
 #ifndef multiStepper_h
