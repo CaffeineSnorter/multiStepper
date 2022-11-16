@@ -18,7 +18,7 @@
   ==============================================================================
 
    multiStepper.h - Libreria hecha con las patas para controlar motores a pasos
-   multiStepper.h - Blundering library aimed to control stepper motors
+   multiStepper.h - Poorly made library aimed to control stepper motors
 
    28BYJ_48 con controlador ULN2003
    NEMA 17 con controlador a4988
