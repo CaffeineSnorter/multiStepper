@@ -34,7 +34,7 @@ multiStepper::multiStepper(String motorType_, int maxFreq_, int A_, int B_, int 
   maxFreq = maxFreq_;
 }
 
-multiStepper::multiStepper(String motorType_, int maxFreq_, int stepPin_, int dirPin_) {
+multiStepper::multiStepper(String motorType_, int stepPin_, int dirPin_) {
 
   stepPin = stepPin_;
   dirPin = dirPin_;
