@@ -90,14 +90,14 @@ class multiStepper {
     //Constructor
     multiStepper(String motorType_, int maxFreq_, int A_, int B_, int C_, int D_);
 
-    multiStepper(String motorType_, int maxFreq_, int stepPin_, int dirPin_);
+    multiStepper(String motorType_, int stepPin_, int dirPin_);
 
     //metodos
     void init();
     //void setRPM(int RPM_);
     void fullStepLowTorque(int RPM_, int steps_ = 2048);
     void fullStepHighTorque(int RPM_, int steps_ = 2048);
-    void halfStep(int RPM_, int steps_ = 4056);
+    void halfStep(int RPM_, int steps_ = 4096);
 };
 
 #endif
