@@ -1,22 +1,4 @@
 /*
-   ============================================================================
-                           ¡¡D I S C L A I M E R!!
-   ============================================================================
-
-   Estas a punto de leer el codigo más perro puerco de tu vida
-   si por alguna razón lo llegas a leer sientete libre de
-   mentarme la madre o enviarme una critica constructiva a:
-
-                          Caffeine.Snorter@gmail.com
-            
-  You are about to read the nastiest most disrespectful piece of code
-  you'll see in your life, if for any reason you happen to read it feel free
-  to tell me to go fuck myself or send me an email suggesting ways to improve
-  my code to the email above.
-
-  ==============================================================================
-  ==============================================================================
-
    multiStepper.h - Libreria hecha con las patas para controlar motores a pasos
    multiStepper.h - Poorly made library aimed to control stepper motors
 
